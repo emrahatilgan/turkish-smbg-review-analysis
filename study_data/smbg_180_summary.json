@@ -1,0 +1,18 @@
+{
+  "n": 180,
+  "counts": {
+    "neutral": 8,
+    "positive": 162,
+    "negative": 10
+  },
+  "changed_from_archived_count": 11,
+  "truncated_reviews": 0,
+  "max_tokens": 128,
+  "label_mapping": {
+    "0": "neutral",
+    "1": "positive",
+    "2": "negative"
+  },
+  "label_mapping_basis": "Source training dataset class examples; checkpoint numeric IDs are retained. Semantic mapping is not specified by generic LABEL_0/1/2 metadata.",
+  "human_validation_performed": false
+}
