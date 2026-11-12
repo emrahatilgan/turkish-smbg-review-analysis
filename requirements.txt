@@ -1,6 +1,0 @@
-torch>=2.6
-transformers>=4.57,<6
-numpy>=1.26
-pandas>=2.2
-scikit-learn>=1.5
-socksio>=1.0
